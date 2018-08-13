@@ -76,6 +76,6 @@ output "app_url_1" {
   value = "${data.ibm_container_cluster_worker.worker_0.public_ip}"
 }
 
-output "app_url_1" {
+output "app_url_2" {
   value = "${data.ibm_container_cluster_worker.worker_1.public_ip}"
 }
