@@ -54,7 +54,9 @@ On OS X this is achieved by entering the following into your terminal, replacing
 Upon completion, terraform will output the url of the application, e.g.:
 
 ```
-app_url = "<url>"
+app_url_1 = "<url>"
+
+app_url_2 = "<url>"
 
 ```
 **Use this url to access your application**
